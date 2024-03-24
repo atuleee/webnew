@@ -1,0 +1,103 @@
+*{margin: 0px; padding: 0px;}
+body{
+    background: #fff;
+    font-family: tahoma;
+}
+.container{
+    width: 980px;
+    margin: auto;
+}
+.header{
+    height: 100px;
+    background-color: #f37423;
+}
+.logo{
+    width: 160px;
+    float: left;
+}
+form{
+    float: right;
+    padding: 40px;
+}
+.search{
+    width: 230px;
+}
+.textShare{
+    background: #272f54;
+    color: #fff;
+}
+
+.menu{
+    height: 35px;
+    background: #272f54;
+}
+
+.menu ul li{
+    list-style: none;
+    float: left;
+    padding-left: 100px;
+    line-height: 35px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+
+}
+.menu ul li a:hover{
+    background: #f37423;
+}
+
+.img-banner{
+    padding-top: 10px;
+    width: 980px;
+}
+
+.title{
+    text-align: center;
+    height: 100px;
+    padding-top: 10px;
+}
+.title p{
+    font-weight: bold;
+    font-size: 20px;
+    color: #f37423;
+    line-height: 90px;
+}
+
+.box{
+height: 450px;
+}
+.box1{
+    width: 305px;
+    border: 0.5px solid #f95512;
+    float: left;
+    margin-right: 25px;
+    height: 380px;
+}
+#fix{
+    margin-right: 0px;
+}
+
+.box1 h4{
+    padding: 10px;
+    color: #ad3f00;
+    font-style: 16px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.box1 p{
+    font-size: 13px;
+    padding:10px;
+}
+.imgC{
+    width: 260px;
+    padding-top: 10px;
+    padding-left: 23px;
+}
+.footer{
+    height: 50px;
+    text-align: center;
+    background: #f37423;
+    line-height: 50px;
+    color: #fff;
+}
