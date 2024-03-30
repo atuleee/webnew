@@ -1,0 +1,15 @@
+.adt{
+    display: block;
+    text-decoration: none;
+    color: #2865e0;
+    padding: 20px;
+}
+.textT{
+    font-weight: bold;
+    font-size: 18px;
+    color: #f37423;
+    line-height: 80px;
+}
+.bt{
+    padding-bottom: 50px;
+}
